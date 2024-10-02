@@ -1,2 +1,2 @@
 <h1>Naslov na nashata aplikacija</h1>
-<h2>Dodavanje na podnaslov</h2>
+<h2>Dodavanje na podnaslov nekoja novost</h2>
