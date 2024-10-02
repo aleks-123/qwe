@@ -1,2 +1,1 @@
-aaaa
-main main main forth
+main main main main
